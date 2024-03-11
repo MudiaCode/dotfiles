@@ -1,0 +1,18 @@
+prompt-text = "> "
+
+text-color = #f8f8f2
+prompt-color = #f8f8f2
+selection-color = #bd93f9
+background-color = #000000dd
+
+width = 100%
+padding-left = 35%
+padding-top = 30%
+height = 100%
+border-width = 0
+outline-width = 0
+result-spacing = 14
+num-results = 5
+font = JetBrainsMono
+font-variations = "wght 300"
+font-size = 20
